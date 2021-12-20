@@ -1,0 +1,17 @@
+Package: StatComp21013
+Type: Package
+Title: Final project
+Version: 1.0
+Date: 2021-12-18
+Author: Hu Zongqing
+Maintainer: Hu Zongqing <617721320@qq.com>
+Description: Homework and 2 functions.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.7), microbenchmark, stats, MASS, bootstrap, boot, RANN, energy, Ball, parallel
+LinkingTo: Rcpp
+RoxygenNote: 7.1.2
+Encoding: UTF-8
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+URL: http://github.com/mirror325m/StatComp21013
+BugReports: http://github.com/mirror325m/StatComp21013/issues
